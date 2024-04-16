@@ -1,0 +1,27 @@
+{
+  "name": "@sclaflin/document-scanner",
+  "version": "0.0.1",
+  "description": "Detect the largest document within an image",
+  "main": "DocumentScanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Claflin",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclaflin/document-scanner.git"
+  },
+  "keywords": [
+    "document",
+    "detect",
+    "cv"
+  ],
+  "bugs": {
+    "url": "https://github.com/sclaflin/document-scanner/issues"
+  },
+  "homepage": "https://github.com/sclaflin/document-scanner#readme"
+}
